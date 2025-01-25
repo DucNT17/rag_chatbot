@@ -30,7 +30,7 @@ Here is the RAG pipeline in two version:
 Using venv
 ```bash
 python -m venv venv
-venv/bin/activate 
+venv\Scripts\activate 
 ```
 Using conda
 ```bash
